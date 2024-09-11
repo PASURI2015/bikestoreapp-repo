@@ -1,0 +1,6 @@
+@Rohit_bike_store_HostAddress = http://localhost:5011
+
+GET {{Rohit_bike_store_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
